@@ -31,7 +31,7 @@ This portfolio is licensed under the MIT License.
 ## Contact
 If you have any questions or feedback, please don't hesitate to contact me at my email silvam@cwu.edu.
 
-The link to my webpage is [Text Editor App] (http://127.0.0.1:5500/index.html#projects)
+The link to my webpage is [Text Editor App] (https://immense-bayou-98168.herokuapp.com/)
 
 ![Text Editor App](/client/src/images/screenshot.png "My App Screenshot")
 
