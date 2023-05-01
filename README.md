@@ -1,6 +1,6 @@
 # Text Editor
 
-Welcome to my Text Editor App!  
+Welcome to my Text Editor App! This is a text editor that runs in the browser for users to create notes or code snippets without internet connection.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
